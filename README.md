@@ -1,4 +1,5 @@
 # hello-world
 my first app 
 
-- spring cloud2
+- spring cloud
+- spring boot
